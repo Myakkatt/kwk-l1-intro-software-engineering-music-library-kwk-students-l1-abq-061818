@@ -1,4 +1,6 @@
-
+def list_artists
+  puts "taylor_swift", "silento", "selena_gomez", "mark_ronson", "andy_grammer", "maroon_five" 
+end
 #1. Define a method named `list_artists`. This method should use the `each_key` method to iterate over the hash and return all the artists (the keys)
 # This method should accept a hash as an argument.
 
